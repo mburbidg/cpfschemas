@@ -1,0 +1,5 @@
+{
+    "$id": "http://xdm.sensei.adobe.io/schemas/pdf/pdfactions",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object"
+}
